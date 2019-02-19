@@ -6,6 +6,7 @@ bash script that rolls arbitrary dice
 2. `cd DiceRoller`
 3. Use `make mac` or `make linux` to append the script to your bash configuration. 
 4. (Mac Only) `source ~/.bash_profile`
+
 **Note** If you're using some other shell (i.e. zsh) you will have to do something like `cat roll.bash >> ~/.zshrc` and reload to install this
 
 ## Usage
