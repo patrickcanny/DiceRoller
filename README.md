@@ -9,7 +9,7 @@ bash script that rolls arbitrary dice
 **Note** If you're using some other shell (i.e. zsh) you will have to do something like `cat roll.bash >> ~/.zshrc` and reload to install this
 
 ## Usage
-`roll <Number of Dice> d<Sides Per Die>`
+`roll <Number of Dice> d<Sides Per Die>` i.e. `roll 1 d20`
 
 ## Feature Ideas
 1. D&D game management tool
